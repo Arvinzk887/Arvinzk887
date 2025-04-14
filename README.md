@@ -16,6 +16,7 @@ I'm a Finance professional based in Clovis, California, with a deep interest in 
 - Quantitative Research & Alpha Generation
 - Options Pricing and Volatility Modeling
 - Financial Machine Learning (FML) – inspired by *Advances in Financial Machine Learning* by Marcos López de Prado
+- Portfolio Management - inspired by *Active Portfolio Management* by Richard C Grinold and Ronald N. Kahn 
 - Strategy Optimization & Performance Metrics (e.g., CAGR, Calmar, Sharpe)
 - Building custom trading systems using Python and modern data stack tools
 
@@ -38,4 +39,4 @@ If you're interested in trading systems, financial analytics, or just want to ch
 ---
 
 📫 arvindhazk887@gmail.com 
-🌐 [LinkedIn]https://www.linkedin.com/in/arvindha/
+🌐 https://www.linkedin.com/in/arvindha/
