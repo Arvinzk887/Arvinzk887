@@ -1,99 +1,154 @@
-# 👋 Hi, I’m Arvin
+# Arvin
 
-Welcome to my GitHub.
+Finance Professional | Quantitative Researcher | AI & Forecasting Systems Builder
 
-I’m a finance professional based in **Clovis, California**, with a focus on **quantitative trading, options research, and algorithmic strategy development**. I hold a **Master of Science in Finance** and am currently working toward the **CFA Charter**, with a long-term objective of becoming a **Quant**.
-
-My work bridges **financial theory, data engineering, and systematic trading**, with an emphasis on robust backtesting, realistic assumptions, and production-oriented research.
+Based in Clovis, California
 
 ---
 
-## 💼 What I Do
+## About Me
 
-- Conduct quantitative research on **equities, derivatives, and macroeconomic data**
-- Design and backtest **options strategies** using historical option chain data
-- Build **custom backtesting engines** focused on performance, scalability, and realism
-- Integrate trading and research platforms into a unified workflow, including:
-  - ThinkOrSwim
-  - Interactive Brokers (TWS API)
-  - OpenBB Terminal
-- Analyze **market structure, volatility, and risk dynamics**, with a primary focus on **SPX and futures-based strategies**
+I am a finance professional and quantitative researcher with a background in derivatives, systematic trading, forecasting, and data-driven decision making.
 
----
+My work combines finance, software development, machine learning, and data engineering to build research platforms that support strategy development, forecasting, and quantitative analysis.
 
-## 🔧 Core Interests
+I hold a Master of Science in Finance and am currently a CFA Program Candidate.
 
-- Quantitative Research & Alpha Generation
-- Options Pricing & Volatility Modeling
-- Financial Machine Learning (FML)  
-  - Inspired by *Advances in Financial Machine Learning* — Marcos López de Prado
-- Portfolio Construction & Risk Management  
-  - Inspired by *Active Portfolio Management* — Grinold & Kahn
-- Strategy Evaluation & Performance Metrics  
-  - CAGR, Sharpe, Calmar, drawdowns, regime analysis
-- Building production-ready trading systems using modern data stacks
+My primary interests include quantitative trading, SPX index options research, financial machine learning, forecasting systems, and self-hosted AI infrastructure.
 
 ---
 
-## 🔍 Current Focus
+## What I Work On
 
-- Backtesting and refining the **PL5 PRO SPX Trade Plan**
-- Automating options strategies using **large-scale historical option chain datasets**
-- Improving data pipelines for speed, reliability, and research repeatability
+### Quantitative Trading Research
 
----
+I develop and evaluate systematic trading strategies with a focus on:
 
-## 🧠 Project Eden
+* SPX index options
+* Volatility-based strategies
+* Portfolio-level risk analysis
+* Strategy performance evaluation
+* Regime analysis and market behavior
 
-**Project Eden** is an experimental, long-term research initiative exploring the intersection of **systems engineering and data infrastructure**.
+### Forecasting & Analytics
 
-The project focuses on:
-- Designing lightweight, modular operating environments (**Eden OS**)
-- Building custom hardware and embedded systems for low-level and edge computation
-- Experimenting with system architecture, resource efficiency, and reproducibility
+I build forecasting systems for financial and operational decision-making.
 
-While exploratory by nature, Project Eden informs how I think about **resilient systems, low-level computation, and scalable architectures**, which directly influences my work on trading systems and data pipelines.
+Areas of interest include:
 
----
+* Time-series forecasting
+* Statistical modeling
+* Machine learning applications
+* Agricultural forecasting
+* Scenario analysis
+* Forecast automation
 
-## 🛠 Tools & Technologies
+### Artificial Intelligence
 
-**Languages**
-- Python
-- C++
-- R
+I am actively building local AI infrastructure for research and analytics.
 
-**Research & Trading Tools**
-- Jupyter Notebook
-- SQLite / SQL
-- DataGrip
-- ThinkOrSwim
-- OptionNet Explorer
-- OpenBB Terminal
-- Interactive Brokers (TWS API)
+Current areas of exploration include:
 
-**Libraries & Frameworks**
-- pandas
-- numpy
-- plotly
-- scikit-learn
-- PyTorch
-- TensorFlow
+* Self-hosted large language models
+* Retrieval-Augmented Generation (RAG)
+* Agentic workflows
+* Knowledge management systems
+* Research automation
+* Model routing and inference optimization
 
 ---
 
-## 📈 Collaboration & Interests
+## Current Projects
 
-I’m interested in:
-- Quantitative research collaboration
-- Systematic trading and strategy development
-- Options and volatility-focused research
+### Automated SPX Options Backtesting Platform
 
-If your work overlaps with **derivatives, financial machine learning, or systematic trading**, feel free to connect.
+A quantitative research platform designed to evaluate systematic SPX index options strategies using historical options data.
+
+Key capabilities include:
+
+* Historical options chain analysis
+* Strategy design and testing
+* Multi-position trade management
+* Risk and performance analytics
+* Trade lifecycle tracking
+* Drawdown and volatility analysis
+* Research workflow automation
+
+The platform is designed around realistic assumptions, repeatability, transparency, and quantitative rigor.
 
 ---
 
-## 📫 Contact
+### Forecasting Systems
 
-- **Email**: arvindhazk887@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/arvindha/
+Developing forecasting solutions that combine statistical methods and machine learning techniques to improve decision-making.
+
+Current areas of research include:
+
+* Agricultural production forecasting
+* Demand forecasting
+* Financial market forecasting
+* Forecast validation and model selection
+* Automated reporting pipelines
+
+---
+
+### Local AI Research Environment
+
+Building a self-hosted AI environment focused on research, analytics, and productivity.
+
+Areas of interest include:
+
+* Local LLM deployment
+* Open-source AI models
+* Vector databases
+* Agent-based systems
+* Research assistants
+* Quantitative research workflows
+
+---
+
+## Technology Stack
+
+**Languages:** Python, C++, SQL, R
+
+**Quantitative Research:** pandas, NumPy, Polars, scikit-learn, Plotly
+
+**AI & Machine Learning:** PyTorch, Hugging Face, Ollama, LiteLLM, vLLM
+
+**Infrastructure:** Docker, Linux, PostgreSQL, Jupyter
+
+---
+
+## Areas of Interest
+
+* Quantitative Finance
+* Systematic Trading
+* Derivatives Research
+* Volatility Analysis
+* Financial Machine Learning
+* Forecasting Systems
+* Data Engineering
+* Artificial Intelligence
+* Research Infrastructure
+* Quantitative Software Development
+
+---
+
+## Collaboration
+
+I am interested in collaborating on:
+
+* Quantitative research projects
+* Systematic trading strategies
+* Options and volatility research
+* Financial machine learning
+* Forecasting and predictive analytics
+* AI-powered research systems
+
+---
+
+## Contact
+
+Email: [arvindhazk887@gmail.com](mailto:arvindhazk887@gmail.com)
+
+LinkedIn: https://www.linkedin.com/in/arvindha/
