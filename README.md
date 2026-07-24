@@ -73,8 +73,6 @@ A self-hosted AI environment for research, analytics, and productivity — local
 
 ---
 
-## Contribution Space Shooter
-
 <div align="center">
 
 ![My GitHub Game](game.gif)
