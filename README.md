@@ -85,7 +85,6 @@ A self-hosted AI environment for research, analytics, and productivity — local
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Arvinzk887&show_icons=true&theme=tokyonight&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arvinzk887&theme=tokyonight&hide_border=true)
 
 </div>
